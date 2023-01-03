@@ -540,17 +540,16 @@ h5{
     background-color: #191919;
 }
 .cardcert{
-    height: 550px;
+    height: 50vh;
     width: 500px;
-    padding: 20px 35px;
+    padding: 20px 33px;
     background: #101010;
-    border-radius: 20px;
+    border-radius: 25px;
     margin: 15px;
     position: relative;
     overflow: hidden;
     text-align: center;
-    margin-top: 75px;
-
+    margin-top: 70px;
 }
 .pra img{
     max-width: 100%;
